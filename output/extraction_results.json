@@ -1,0 +1,42 @@
+[
+  {
+    "diagnosis": "generalized anxiety disorder",
+    "medications": [
+      "biofeedback therapy",
+      "breathing exercise"
+    ],
+    "lab_values": {
+      "thyroid profile": "within normal limit",
+      "ultrasound": "within normal limit",
+      "electrocardiogram": "within normal limit",
+      "vitals": "within normal limit"
+    },
+    "confidence": 0.9
+  },
+  {
+    "diagnosis": "anaphylaxis/severe systemic reaction",
+    "medications": [],
+    "lab_values": {},
+    "confidence": 0.85
+  },
+  {
+    "diagnosis": "hypertrophic lichen planus",
+    "medications": [],
+    "lab_values": {
+      "hematological investigations": "normal",
+      "biochemical investigations": "normal",
+      "histopathological examination": "confirmed diagnosis of hypertrophic lichen planus characterized by hyperkeratotic, acanthotic squamous epithelium with elongation of the rete ridges and dense bands of lymphohistocytic infiltration in papillary dermis hugging the epidermis"
+    },
+    "confidence": 0.85
+  },
+  {
+    "diagnosis": "Type II choledochal cyst/double GB/Type VI choledochal cyst",
+    "medications": [],
+    "lab_values": {
+      "ultrasound": "hypoechoic lesion located around the porta hepatis with a contracted gall bladder and no intra-hepatic biliary radicle dilatation",
+      "magnetic resonance cholangiopancreatography": "hypoechoic lesion located around the porta hepatis with a contracted gall bladder and no intra-hepatic biliary radicle dilatation",
+      "microscopy": "papillary hyperplasia of the mucosa with features of chronic inflammation in the wall of the gall bladder"
+    },
+    "confidence": 0.9
+  }
+]
